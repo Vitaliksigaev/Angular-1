@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+ng new my-angular-project
+cd my-angular-project
+git init
+git add .
+git commit -m “Initial commit”
+git remote add origin 
+git push -u origin master
